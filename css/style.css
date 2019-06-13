@@ -1,0 +1,22 @@
+table{
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    border: 1px solid darkturquoise;
+    color: #322337;
+    font-size: 15px;
+    background: #ddedf8;
+}
+th{
+    text-align: center;
+}
+caption{
+    color: #f3ce1e;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px black;
+    margin: 10px;
+}
+body{
+    background: #f4f1f8;
+}
